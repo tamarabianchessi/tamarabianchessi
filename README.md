@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tamara</h1>
-<h3 align="center">I am a graduate with a MSc in Biomedical Engineering at Linköping University. I did my BSc in Biomedical Engineering at Politecnico di Milano.</h3>
+<h3 align="center">I am a graduate with a MSc in Biomedical Engineering at Linköping University. I did my BSc in Biomedical Engineering at Politecnico di Milano. My master thesis work was about [Pediatric Brain Tumor Type Classification in MR Images Using Deep Learning](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-186337)
+[Go to the Support Web Site](https://support.west-wind.com)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarabianchessi&label=Profile%20views&color=0e75b6&style=flat" alt="tamarabianchessi" /> </p>
-My master thesis work was about [Pediatric Brain Tumor Type Classification in MR Images Using Deep Learning](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-186337)
+
 
 - 📫 How to reach me **tamara.bianchessi@gmail.com, tambi547@student.liu.se**
 
