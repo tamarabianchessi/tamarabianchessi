@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamara</h1>
-<h3 align="center">I am a graduate with a MSc in Biomedical Engineering at Linköping University. I did my BSc in Biomedical Engineering at Politecnico di Milano. My master thesis work was about [Pediatric Brain Tumor Type Classification in MR Images Using Deep Learning](https://liu.diva-portal.org/smash/get/diva2:1675064/FULLTEXT01.pdf)</h3>
+<h3 align="center">I am a graduate with a MSc in Biomedical Engineering at Linköping University. I did my BSc in Biomedical Engineering at Politecnico di Milano. My master thesis work was about [Pediatric Brain Tumor Type Classification in MR Images Using Deep Learning](https://liu.diva-portal.org/smash/record.jsf?dswid=-9250&pid=diva2%3A1675064&c=1&searchType=SIMPLE&language=en&query=bianchessi&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamarabianchessi&label=Profile%20views&color=0e75b6&style=flat" alt="tamarabianchessi" /> </p>
 
